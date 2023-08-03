@@ -1,0 +1,35 @@
+
+
+        /* display de todo conteudo */
+
+
+body {
+    margin:0px;
+    background: linear-gradient(#2086f4, #9198e5 30%);
+    width: 100vw;
+    height: 100vh;
+    /* min-height: 751px; */
+    font-size: 14px;
+    padding: 0;
+    
+   
+  
+    
+}
+
+
+
+#content {
+    width: 50%;
+    
+    min-width: 300px;
+    max-width: 2000px;
+   
+    padding-bottom: 20px;
+    margin:auto;
+
+    
+   
+    
+
+}

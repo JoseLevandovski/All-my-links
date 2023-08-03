@@ -1,0 +1,90 @@
+
+
+    /* responsividade mobile */
+
+    /* @media (max-width: 1024px) {
+        #content {
+          
+            
+            
+        }
+      
+     
+    } */
+
+    @media (max-width:720px) {
+        #content {
+        
+           
+          
+            
+        }
+    
+        #contato{
+            
+            width: 40vw;
+            margin-left: auto;
+            margin-right: auto;
+        
+         margin-right: 100px;
+        }
+    
+    
+    }
+
+    @media (max-width:710px )
+    {
+
+    #contato{
+       
+        width: 20vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #content {
+        width:70%;
+    }
+    #foto {
+        padding-left: 50px;
+    }
+    .nome {
+        padding-left:20px;
+    }
+    }
+
+
+
+    @media (max-width:320px)
+
+    {
+        #content {
+        
+            width: 20vw;
+            margin-right: 20px;
+            
+            /* background-color: blue; */
+        
+            
+        }
+    
+        #contato{
+            
+            width:30px ;
+          
+           
+            margin-bottom: 18px;
+            
+         
+        }
+        ul{
+            margin-right: 10px;
+        }
+ 
+
+    #foto {
+        padding-left: 20px;
+    }
+    .nome {
+        padding-left:10px;
+    }
+    }
